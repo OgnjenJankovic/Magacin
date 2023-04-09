@@ -7,6 +7,7 @@ public class KancelarijskiMaterijal {
 	
 	String naziv;
 	int opis, kolicina, sifra;
+	
 	public String getNaziv() {
 		return naziv;
 	}
